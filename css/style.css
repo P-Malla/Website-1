@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-expand-lg{
+    padding: 20px;
+}
+.nav-item:hover{
+    background-color: rgb(12, 9, 9);
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+    padding: 150px;
+}
+.row .card{
+    margin: 20px 0px;
+}
+.row .col-md-6{
+    text-align: center;
+    margin-top: 20px;
+}
+.row .col-md-6 h3{
+    padding: 100px 20px;
+}
+footer{
+    background-color:rgb(36, 34, 34);
+    padding: 30px;
+    margin: 10px 0px;
+}
